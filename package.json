@@ -1,0 +1,23 @@
+{
+    "name": "jest-basic-tests",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "test:watch": "jest --watchAll"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zec4o/jest-basic-tests.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/zec4o/jest-basic-tests/issues"
+    },
+    "homepage": "https://github.com/zec4o/jest-basic-tests#readme",
+    "devDependencies": {
+        "jest": "^29.2.1"
+    }
+}
