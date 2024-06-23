@@ -1,8 +1,7 @@
 <h1><p align="center">Jest Basic Tests🧦</p></h1>
 
-<div align=center>
 [![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest)
-</div>
+
 
 This project is a "component tests" example using JavaScript and [Jest](https://jestjs.io/docs/en/getting-started).
 
